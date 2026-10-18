@@ -1,0 +1,34 @@
+iTRONIC RIO VERDE — PÁGINA 2 • iPHONE 18 PRO MAX (V11)
+
+Conteúdo:
+- index.html: Homepage V10, com o card do iPhone 18 Pro Max apontando para a Página 2.
+- produto-iphone-18-pro-max.html: Página 2 independente, responsiva, clara e escura.
+- logo-itronic.png: Logomarca original do usuário, somente aparada a margem transparente.
+- itronic-banner-3d.mp4 e itronic-banner-3d-poster.png: arquivos da Home V10.
+- IMAGENS-OFICIAIS-APPLE-HOME.json: fontes oficiais de imagens do catálogo da Home.
+
+COMO TESTAR
+1. Extraia todos os arquivos do ZIP na mesma pasta.
+2. Abra index.html no navegador.
+3. Clique no iPhone 18 Pro Max para abrir a nova página.
+4. Escolha cor, capacidade e quantidade. Adicione à sacola demonstrativa.
+5. Clique em “Ver minha sacola” para voltar à Home com a sacola aberta.
+6. Para atualizar um site estático existente, envie TODOS os arquivos na mesma pasta para seu repositório.
+
+NÃO PUBLICAR COMO LOJA TRANSACIONAL AINDA
+A página não possui integração real de pagamento, estoque, frete ou precificação por variante.
+Os preços só serão exibidos caso tenham sido cadastrados no catálogo local da V10,
+como referência e NÃO confirmação de uma oferta comercial.
+Os recursos de salvamento dependem do armazenamento local do navegador, não sincronizam
+outros aparelhos e não constituem banco de dados.
+
+IMAGENS DA APPLE
+Fotos externas são linkadas diretamente do Apple Newsroom:
+- https://www.apple.com/br/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+- https://www.apple.com/br/iphone-18-pro/specs/
+O acesso remoto pode ser bloqueado, caso em que há um fallback com link para a fonte.
+As imagens NÃO são recortadas para fingir variantes; a cor selecionada muda o estado,
+mas fotos individuais só serão mostradas quando houver fontes oficiais apropriadas.
+Verifique direitos e autorização para uso comercial antes de publicar a loja.
+
+PRÓXIMA ETAPA: aprovar visual e informações da Página 2; depois Página 3 — carrinho e checkout.
