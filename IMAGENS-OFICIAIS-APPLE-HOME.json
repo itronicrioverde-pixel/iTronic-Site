@@ -1,0 +1,102 @@
+[
+  {
+    "produto": "iPhone 18 Pro Max",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/geo/Apple-iPhone-18-Pro-2up-Geo-260909_inline.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/"
+  },
+  {
+    "produto": "iPhone 18 Pro",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-color-lineup-260909_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/"
+  },
+  {
+    "produto": "iPhone 17 Pro Max",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/article/Apple-iPhone-17-Pro-color-lineup-250909_inline.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max-the-most-powerful-and-advanced-pro-models-ever/"
+  },
+  {
+    "produto": "iPhone 17",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2025/09/apple-debuts-iphone-17/geo/article/Apple-iPhone-17-hero-250909_inline.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2025/09/apple-introduces-iphone-17/"
+  },
+  {
+    "produto": "iPhone 17e",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-iphone-17e/geo/Apple-iPhone-17e-hero-geo-260302_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/03/apple-introduces-iphone-17e/"
+  },
+  {
+    "produto": "iPhone 16",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2024/09/apple-introduces-iphone-16-and-iphone-16-plus/article/geo/Apple-iPhone-16-hero-geo-240909_inline.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2024/09/apple-introduces-iphone-16-iphone-16-plus/"
+  },
+  {
+    "produto": "iPhone 15",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-geo-230912_inline.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/"
+  },
+  {
+    "produto": "Apple Watch Series 12",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/article/Apple-Watch-Series-12-2up-260909_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/"
+  },
+  {
+    "produto": "Apple Watch Ultra 4",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/09/apple-unveils-apple-watch-ultra-4/article/Apple-Watch-Ultra-4-hero-260909_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/"
+  },
+  {
+    "produto": "iPad Air M4",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/article/Apple-iPad-Air-M4-multitasking-260302_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/"
+  },
+  {
+    "produto": "iPad 11 A16",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/article/Apple-iPad-Morpholio-Trace-250304_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/"
+  },
+  {
+    "produto": "MacBook Air M5",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/article/Apple-MacBook-Air-hero-260303_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
+  },
+  {
+    "produto": "MacBook Pro 14” M5",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/article/Apple-MacBook-Pro-14-in-hero-251015_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/"
+  },
+  {
+    "produto": "AirPods Pro 3",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2025/09/introducing-airpods-pro-3-the-ultimate-audio-experience/article/Apple-AirPods-Pro-3-hero-250909_inline.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2025/09/airpods-pro-3-introduce-the-ultimate-audio-experience/"
+  },
+  {
+    "produto": "AirPods 5",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/article/Apple-AirPods-5-hero-260909_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+  },
+  {
+    "produto": "AirPods 4 ANC",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2024/09/apple-introduces-airpods-4/article/Apple-AirPods-4-with-case-240909_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/"
+  },
+  {
+    "produto": "AirPods Max",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2024/09/apple-introduces-airpods-4/article/Apple-AirPods-Max-color-lineup-240909_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/"
+  },
+  {
+    "produto": "Apple AirTag",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/product/accessories/standard/Apple_airtag-front-and-back-emoji-2up_042021_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2021/04/apple-introduces-airtag/"
+  },
+  {
+    "produto": "Apple Pencil USB-C",
+    "imagem_oficial": "https://www.apple.com/newsroom/images/2023/10/apple-introduces-new-apple-pencil-bringing-more-value-and-choice-to-the-lineup/article/Apple-Pencil-USB-C_big.jpg.large.jpg",
+    "pagina_oficial": "https://www.apple.com/br/newsroom/2023/10/apple-introduces-new-apple-pencil-bringing-more-value-and-choice-to-the-lineup/"
+  },
+  {
+    "produto": "Adaptador USB-C 20W",
+    "imagem_oficial": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUVU3?.v=bUljUWFoWU5tWWx6Yzc0M1I0aGtpZ2tuVHYzMERCZURia3c5SzJFOTlPZ0JzRncwa3hCV01oWVZJYmVjbndDL1BGU0ZvTStVOXQvUnY0bGRiVzVrSFE&fmt=jpeg&hei=1144&qlt=90&wid=1144",
+    "pagina_oficial": "https://www.apple.com/br/shop/product/muvu3bz/a/adaptador-de-energia-usb-c-de-20w"
+  }
+]

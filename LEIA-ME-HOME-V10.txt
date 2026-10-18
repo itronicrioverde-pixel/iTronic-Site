@@ -1,0 +1,41 @@
+iTRONIC RIO VERDE — PÁGINA 1: HOME V10
+====================================
+
+Esta entrega conclui a revisão da PÁGINA INICIAL (vitrine), preservando a
+estrutura funcional do protótipo anterior para as demais telas.
+
+ARQUIVOS NECESSÁRIOS
+- index.html (ou itronic-home-v10.html) — página e catálogo
+- itronic-banner-3d.mp4 — vídeo de demonstração do topo
+- itronic-banner-3d-poster.png — imagem de espera do vídeo
+- IMAGENS-OFICIAIS-APPLE-HOME.json — URL da foto e origem oficial de cada item
+
+ABRIR E TESTAR
+1. Descompactar todo o ZIP.
+2. Manter os arquivos na mesma pasta.
+3. Abrir index.html no navegador.
+4. Navegar pelas categorias, pesquisar e testar o carrinho demonstrativo.
+5. Para subir ao GitHub, carregar os arquivos juntos.
+
+O QUE FOI MELHORADO NESTA ETAPA
+- Primeiros cards de produtos visíveis mais cedo no celular.
+- Banner 3D compacto, imediatamente abaixo do menu.
+- Grade 2 colunas celular e 4 colunas desktop.
+- Cartões com referência oficial Apple e link para conferir a fonte.
+- Fotografias não foram modificadas/recoloridas pelo projeto.
+- Preços conhecidos permanecem apenas como referências não confirmadas.
+- Responsivo, categorias, pesquisa, favoritos e sacola do V9 mantidos.
+
+LIMITES IMPORTANTES
+- Fotos estão vinculadas a URLs HTTPS Apple: precisa de conexão, e o servidor
+  da Apple pode não autorizar hotlink ou alterar os endereços.
+- O uso dessas imagens em um e-commerce comercial exige verificar direitos e
+  as orientações da Apple; link público não constitui licença comercial.
+- A maioria das imagens são de divulgação de uma linha, nem sempre uma foto
+  isolada de cada variação em estoque. Não vincular foto a cor não confirmada.
+- O painel é local e NÃO uma administração segura de produção.
+- Pedido real, pagamento, frete, autenticação e estoque unificado não existem.
+- As demais páginas do site serão refinadas nas próximas etapas, UMA POR VEZ.
+
+REFERÊNCIAS LEGAIS DE IMAGEM:
+https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html
